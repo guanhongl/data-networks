@@ -1,0 +1,8 @@
+uhx02:/home/g/guanhong% telnet localhost 25603
+Trying ::1...
+telnet: connect to address ::1: Connection refused
+Trying 127.0.0.1...
+Connected to localhost.
+Escape character is '^]'.
+Hello Guanhong. ICS 451 is fun!
+Connection closed by foreign host.
