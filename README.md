@@ -1,5 +1,5 @@
 # data-networks
-UHM ICS 451
+UHM CS 451
 
 1. Program 1 starts a client and server with Java Sockets. The server sends a .txt file upon client connection; the client receives a .txt file. 
 2. Program 2 starts a server with POSIX Sockets. The server sends a text string upon client connection. Test with Telnet. 
